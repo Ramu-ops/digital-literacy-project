@@ -1,0 +1,13 @@
+## Task 5 – Cybercrime Awareness
+
+Part A – Case Study:
+- Topic: UPI/Online Payment Fraud
+- Type: Realistic scenario based on reported cases
+- File: casestudy.md
+
+Part B – Prevention Checklist:
+- Contains 8 specific prevention tips
+- Includes 2 UPI/financial safety tips
+- Includes reporting channels: 
+  cybercrime.gov.in and Helpline 1930
+- File: prevention-checklist.md
