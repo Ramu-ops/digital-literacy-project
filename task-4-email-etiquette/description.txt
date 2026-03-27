@@ -1,0 +1,10 @@
+## Task 4 – Email Etiquette & Social Media Guide
+
+Part A – Professional Emails:
+- Email 1: Request for assignment extension to professor
+- Email 2: Summer internship interest to coordinator
+- Both emails follow professional email etiquette rules
+
+Part B – Social Media Checklist:
+- Created social-media-checklist.md
+- Contains 7 Do's and 7 Don'ts for college students
