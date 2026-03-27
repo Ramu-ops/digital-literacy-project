@@ -1,0 +1,12 @@
+## Task 3 – Coding & Collaboration Platforms
+
+Part A – Coding Practice:
+- Platform: HackerRank
+- Completed: Python (Basic) Skill Certification
+- Certificate ID: 84958B444ED0
+- Earned on: 10 Nov, 2025
+
+Part B – Google Workspace:
+- Created a Digital Literacy Awareness Quiz using Google Forms
+- Contains 5 questions (4 MCQ + 1 Short Answer)
+- Form Link: [paste your Google Form link here]
