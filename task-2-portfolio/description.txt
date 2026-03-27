@@ -1,0 +1,10 @@
+## Task 2 – Student Digital Portfolio
+
+Platforms Set Up:
+1. GitHub – github.com/Ramu-ops
+2. Kaggle – for data science projects and competitions
+3. Stack Overflow – for coding Q&A and problem solving
+4. ResearchGate – for academic research and papers
+
+GitHub Profile README: Created at github.com/Ramu-ops
+Screenshots of all profiles are uploaded in this folder.
