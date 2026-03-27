@@ -73,6 +73,6 @@ digital-literacy-project/
 
 ## Links
 - 🐙 GitHub Profile: [Ramu-ops](https://github.com/Ramu-ops)
-- 💼 Kaggle: [Add your Kaggle link here]
-- 💬 Stack Overflow: [Add your Stack Overflow link here]
-- 🔬 ResearchGate: [Add your ResearchGate link here]
+- 💼 Kaggle: (https://www.kaggle.com/rahuljoshi25mim10153)
+- 💬 Stack Overflow: [(https://stackoverflow.com/users/32553362/rahul-joshi)]
+- 🔬 ResearchGate: [(https://www.researchgate.net/profile/Rahul-Joshi-44?ev=hdr_xprf)]
